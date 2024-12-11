@@ -5,7 +5,7 @@
 ## Инструмены 
 Основные:
 
-Flask | Django | PostgreSQL | MySQL | Qt | HTML | CSS | NumPy | TensorFlow | PyTest(selenium)
+FastApi | Flask | Django | PostgreSQL | MySQL | Qt | HTML | CSS | NumPy | TensorFlow | PyTest(selenium) | Docker | Linux | Git
 
 ## Дополнительная информация
 
