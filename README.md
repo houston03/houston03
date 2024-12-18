@@ -7,13 +7,7 @@
 
 FastApi | Flask | Django | PostgreSQL | MySQL | Qt | HTML | CSS | NumPy | TensorFlow | PyTest(selenium) | Docker | Linux | Git
 
-## Дополнительная информация
-
-Большинство проектов создавались 
-в проессе изучения библиотек, некоторые из 
-которых вы видите здесь.
-
-## Мои проекты с открытым исходным кодом
+## Мои проекты с открытым исходным кодом написанные на коленке, но прикольные
 
 - rusYouTube | https://github.com/houston03/rusYouTube-Flask-postgreSQL
 - Application | https://github.com/houston03/Application
